@@ -41,5 +41,7 @@ def send_message(number, string):
         keyboard.release(Key.enter)# 模拟回车键的弹起
 
 if __name__=="__main__":
-    send_message(1, '你大点声，看不到你的文字！！！！ 你的手速不行1')
-    send_message(1, '你大点声，看不到你的文字！！！！ 你的手速不行2')
+    send_message(1, 'other1')
+    send_message(1, 'other2')
+    send_message(1, 'other3')
+
