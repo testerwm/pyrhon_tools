@@ -11,8 +11,5 @@ print('hello world!')
 print('2')
 print('hello world!')
 print('3')
-<<<<<<< HEAD
-=======
 print('hello world!')
 
->>>>>>> 729ae2662f776ace10f07c584c606e7a640fe7f5
