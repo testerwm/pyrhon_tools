@@ -44,3 +44,8 @@ if __name__=="__main__":
     send_message(1, 'other1')
     send_message(1, 'other2')
     send_message(1, 'other3')
+    send_message(1, '你大点声，看不到你的文字！！！！ 你的手速不行')
+    send_message(1, 'i dont know !')
+    send_message(1, '你大点声，看不到你的文字！！！！ 你的手速不行1')
+    send_message(1, '你大点声，看不到你的文字！！！！ 你的手速不行2')
+
