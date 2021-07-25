@@ -10,3 +10,6 @@ print('1')
 print('hello world!')
 print('2')
 print('hello world!')
+print('3')
+print('hello world!')
+
