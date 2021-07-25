@@ -44,4 +44,3 @@ if __name__=="__main__":
     send_message(1, 'other1')
     send_message(1, 'other2')
     send_message(1, 'other3')
-
