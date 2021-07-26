@@ -7,11 +7,3 @@
 # @Software: PyCharm
 
 print('1')
-print('444')
-
-print('hello world!')
-print('2')
-print('hello world!')
-print('3')
-print('666')
-print("777")
