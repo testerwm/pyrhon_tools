@@ -6,6 +6,9 @@
 # @File    : first.py
 # @Software: PyCharm
 
-print('1')
+print('111')
+print('222')
+print('333')
 print('444')
 print('555')
+print('666')
